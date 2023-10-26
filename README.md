@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ravikant diwakar</h1>
+<h1 align="center">Hi, I'm ravikant diwakar</h1>
 <h3 align="center">web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravikant-diwakar&label=Profile%20views&color=0e75b6&style=flat" alt="ravikant-diwakar" /> </p>
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/ravikant-diwakar](github.com/ravikant-diwakar)
 
-- 💼 Portfolio [ravikantdiwakar.netlify.app/](ravikantdiwakar.netlify.app/)
+- 💼 Portfolio [ravikantdiwakar.netlify.app/](ravikantdiwakar.netlify.app)
 
 - 💬 Ask me about **C, Cpp, HTML, CSS, Javascript**
 
