@@ -7,15 +7,15 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [github.com/ravikant-diwakar](github.com/ravikant-diwakar)
+- 👨‍💻 All of my projects are available at [https://github.com/ravikant-diwakar](https://github.com/ravikant-diwakar)
 
-- 💼 Portfolio [ravikantdiwakar.netlify.app/](ravikantdiwakar.netlify.app)
+- 💼 Portfolio [https://ravikantdiwakar.netlify.app/](https://ravikantdiwakar.netlify.app/)
 
 - 💬 Ask me about **C, Cpp, HTML, CSS, Javascript**
 
 - ✉ Mail **diwakarr956@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/in/ravikantdiwakar](linkedin.com/in/ravikantdiwakar)
+- 📄 Know about my experiences [https://www.linkedin.com/in/ravikantdiwakar/](https://www.linkedin.com/in/ravikantdiwakar/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
