@@ -46,6 +46,10 @@
 	<td><strong>Tools/Platforms</strong></td>
 	<td><img height=40 src = "https://skillicons.dev/icons?i=git,vscode,github&theme=dark"></td>
 </tr>
+<tr>
+	<td><strong>Machine Learning</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=numpy,pandas,sklearn,pytorch,matplotlib,tensorflow"></td>
+</tr>
 </table>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravikant-diwakar&show_icons=true&locale=en&layout=compact" alt="ravikant-diwakar" /></p>
