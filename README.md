@@ -48,7 +48,7 @@
 </tr>
 <tr>
 	<td><strong>Machine Learning</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=numpy,pandas,sklearn,pytorch,matplotlib,tensorflow"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch,matplotlib"></td>
 </tr>
 </table>
 
