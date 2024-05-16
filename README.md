@@ -24,17 +24,6 @@
 <a href="https://www.hackerrank.com/ravikant_diwakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ravikant_diwakar" height="30" width="40" /></a>
 </p>
 
-<style>
-  .center {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh; /* This centers the content vertically on the page */
-  }
-</style>
-
-<div class="center">
-
 ## Languages, Tools and Technologies 🚀 
 <table>
 	<tr>
@@ -66,8 +55,6 @@
 	<td><img height=40 src = "https://skillicons.dev/icons?i=ps,pr"></td>
 </tr>
 </table>
-
-</div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravikant-diwakar&show_icons=true&locale=en&layout=compact" alt="ravikant-diwakar" /></p>
 
