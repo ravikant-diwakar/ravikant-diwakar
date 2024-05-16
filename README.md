@@ -24,6 +24,15 @@
 <a href="https://www.hackerrank.com/ravikant_diwakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ravikant_diwakar" height="30" width="40" /></a>
 </p>
 
+<style>
+  .center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* This centers the content vertically on the page */
+  }
+</style>
+
 <div class="center">
 
 ## Languages, Tools and Technologies 🚀 
