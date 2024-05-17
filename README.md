@@ -61,3 +61,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravikant-diwakar&show_icons=true&locale=en" alt="ravikant-diwakar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravikant-diwakar&" alt="ravikant-diwakar" /></p>
+
+# Contribute
+
+Contributions are always welcome! Please create a PR to add Github Profile.
+
+## :pencil: License
+
+This project is licensed under [MIT](https://opensource.org/licenses/MIT) license.
+
+## :man_astronaut: Show your support
+
+Give a ⭐️ if this project helped you!
