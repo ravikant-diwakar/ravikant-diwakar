@@ -6,8 +6,6 @@
   <img src="https://img.shields.io/github/followers/ravikant-diwakar?label=Follow&style=social" alt="GitHub followers" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravikant-diwakar&label=Profile%20views&color=0e75b6&style=flat" alt="ravikant-diwakar" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravikant-diwakar" alt="ravikant-diwakar" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning**
