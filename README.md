@@ -92,3 +92,7 @@ Licensed under the [MIT](https://opensource.org/licenses/MIT) license.
 
 Give a ⭐️ if you found this helpful!
 
+---
+
+Feel free to explore my repositories and contributions!
+
