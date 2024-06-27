@@ -26,7 +26,7 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/ravikantdiwakar/](https://www.linkedin.com/in/ravikantdiwakar/)
 
 
-## Connect with me
+## Connect with me 🔗
 
 <p align="left">
 <a href="https://linkedin.com/in/ravikantdiwakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravikantdiwakar" height="30" width="40" /></a>
