@@ -1,4 +1,7 @@
 <h1 align="center">Hi, I'm ravikant diwakar</h1>
+
+---
+
 <h3 align="center">Software Engineer | web developer</h3>
 
 <p align="center">
@@ -8,6 +11,7 @@
 
 ---
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravikant-diwakar" alt="ravikant-diwakar" /></a> </p>
+
 ---
 
 - 🌱 I’m currently learning **Machine Learning**
