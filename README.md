@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm ravikant diwakar</h1>
----
 <h3 align="center">Software Engineer | web developer</h3>
 
 <p align="center">
