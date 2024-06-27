@@ -79,11 +79,15 @@
 
 Contributions are always welcome! Please create a PR to add Github Profile.
 
+
+## 🤝🏻 Collaboration
+I’m open to collaborating on exciting projects related to my interests! If you have an idea or project in mind, feel free to reach out to me. Let’s create something awesome together!
+
 ## :pencil: License
 
-This project is licensed under [MIT](https://opensource.org/licenses/MIT) license.
+Licensed under the [MIT](https://opensource.org/licenses/MIT) license.
 
 ## :man_astronaut: Show your support
 
-Give a ⭐️ if this project helped you!
+Give a ⭐️ if you found this helpful!
 
