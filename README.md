@@ -67,10 +67,10 @@
 </table>
 
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravikant-diwakar&show_icons=true&locale=en&layout=compact" alt="ravikant-diwakar" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravikant-diwakar&show_icons=true&locale=en" alt="ravikant-diwakar" /></p>
+| 👨🏻‍💻 | 📈 |
+|-------|-------|
+| <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravikant-diwakar&show_icons=true&locale=en&layout=compact" alt="ravikant-diwakar" /></p> |
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravikant-diwakar&show_icons=true&locale=en" alt="ravikant-diwakar" /></p> |
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravikant-diwakar&" alt="ravikant-diwakar" /></p>
 
