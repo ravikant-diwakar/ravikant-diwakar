@@ -75,13 +75,14 @@
 |-------|
 | <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravikant-diwakar&" alt="ravikant-diwakar" /></p> |
 
-## 🖋 Contribute
-
-Contributions are always welcome! Please create a PR to add Github Profile.
 
 
 ## 🤝🏻 Collaboration
 I’m open to collaborating on exciting projects related to my interests! If you have an idea or project in mind, feel free to reach out to me. Let’s create something awesome together!
+
+## 🖋 Contribute
+
+Contributions are always welcome! Please create a PR to add Github Profile.
 
 ## :pencil: License
 
