@@ -10,6 +10,7 @@
 
 ---
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravikant-diwakar" alt="ravikant-diwakar" /></a> </p>
+
 ---
 
 - 🌱 I’m currently learning **Machine Learning**
@@ -26,7 +27,7 @@
 
 
 ## Connect with me
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://linkedin.com/in/ravikantdiwakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravikantdiwakar" height="30" width="40" /></a>
 <a href="https://instagram.com/0000032c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0000032c" height="30" width="40" /></a>
