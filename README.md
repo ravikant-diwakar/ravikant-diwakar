@@ -62,7 +62,7 @@
 </tr>
 <tr>
 	<td><strong>Software Tools</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=ps,pr"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=ps,pr,figma"></td>
 </tr>
 </table>
 
