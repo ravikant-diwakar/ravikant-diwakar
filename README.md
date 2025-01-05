@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm ravikant diwakar</h1>
 
 
-<h3 align="center">Web Development & ML Enthusiast</h3>
+<h3 align="center">engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ravikant-diwakar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
