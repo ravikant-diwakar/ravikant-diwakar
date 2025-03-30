@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/521136b2-9414-4924-bb09-8cae7319a1a7)
-
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
 <h1 align="center">Hi, I'm ravikant diwakar</h1>
 
