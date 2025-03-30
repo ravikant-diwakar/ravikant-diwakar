@@ -77,14 +77,14 @@
 |-------|------|
 | <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravikant-diwakar&" alt="ravikant-diwakar" /></p> | ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=ravikant-diwakar\&repo=AgriSens) |
 
+
 | 👨🏻‍💻 | 📈 |
 |-------|-------|
-| <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravikant-diwakar&show_icons=true&locale=en&layout=compact&theme=dark" alt="ravikant-diwakar" /></p> | ![Ravikant Diwakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravikant-diwakar&show_icons=true&theme=dark) |
+| <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravikant-diwakar&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ravikant-diwakar" /></p> | ![Ravikant Diwakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravikant-diwakar&show_icons=true&theme=tokyonight) |
 
 | 🔥 | 📈 | 
 |-------|------|
-| <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravikant-diwakar&theme=dark" alt="ravikant-diwakar" /></p> | ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=ravikant-diwakar&repo=AgriSens&theme=dark) |
-
+| <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravikant-diwakar&theme=tokyonight" alt="ravikant-diwakar" /></p> | ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=ravikant-diwakar&repo=AgriSens&theme=tokyonight) |
 
 
 ## 🤝🏻 Collaboration
