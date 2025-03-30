@@ -13,6 +13,9 @@
 ---
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravikant-diwakar" alt="ravikant-diwakar" /></a> </p>
 
+![trophy](https://github-profile-trophy.vercel.app/?username=ravikant-diwakar&theme=onedark)
+
+
 ---
 
 - 🌱 I’m currently learning **Machine Learning**
@@ -76,9 +79,6 @@
 | 🔥 | 📈 | 
 |-------|------|
 | <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravikant-diwakar&" alt="ravikant-diwakar" /></p> | ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=ravikant-diwakar\&repo=AgriSens) |
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ravikant-diwakar&show_icons=true&locale=en&layout=compact&theme=dracula)
-
 
 
 ## 🤝🏻 Collaboration
