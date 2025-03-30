@@ -77,13 +77,7 @@
 |-------|------|
 | <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravikant-diwakar&" alt="ravikant-diwakar" /></p> | ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=ravikant-diwakar\&repo=AgriSens) |
 
-| 👨🏻‍💻 | 📈 |
-|-------|-------|
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ravikant-diwakar&show_icons=true&locale=en&layout=compact&theme=dark) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ravikant-diwakar&show_icons=true&theme=dark) |
-
-| 🔥 | 📈 | 
-|-------|------|
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ravikant-diwakar&theme=dark) | ![Pinned Repo](https://github-readme-stats.vercel.app/api/pin/?username=ravikant-diwakar&repo=AgriSens&theme=dark) |
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ravikant-diwakar&show_icons=true&locale=en&layout=compact&theme=dracula)
 
 
 
