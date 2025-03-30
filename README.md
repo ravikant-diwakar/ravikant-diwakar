@@ -75,7 +75,7 @@
 
 | 🔥 | 📈 | 
 |-------|------|
-| <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravikant-diwakar& \&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515 " alt="ravikant-diwakar" /></p> | ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=ravikant-diwakar\&repo=AgriSens\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515) |
+| <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravikant-diwakar&" alt="ravikant-diwakar" /></p> | ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=ravikant-diwakar\&repo=AgriSens) |
 
 
 ## 🤝🏻 Collaboration
