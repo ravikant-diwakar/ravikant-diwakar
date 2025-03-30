@@ -15,7 +15,6 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ravikant-diwakar&theme=onedark)
 
-
 ---
 
 - 🌱 I’m currently learning **Machine Learning**
