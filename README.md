@@ -13,7 +13,7 @@
 ---
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravikant-diwakar" alt="ravikant-diwakar" /></a> </p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ravikant-diwakar&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=ravikant-diwakar&theme=gruvbox)
 
 ---
 
