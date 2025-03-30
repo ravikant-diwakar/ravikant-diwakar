@@ -77,6 +77,15 @@
 |-------|------|
 | <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravikant-diwakar&" alt="ravikant-diwakar" /></p> | ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=ravikant-diwakar\&repo=AgriSens) |
 
+| 👨🏻‍💻 | 📈 |
+|-------|-------|
+| <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravikant-diwakar&show_icons=true&locale=en&layout=compact&theme=dark" alt="ravikant-diwakar" /></p> | ![ravikant diwakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravikant-diwakar&rank_icon=github&theme=dark) |
+
+| 🔥 | 📈 | 
+|-------|------|
+| <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravikant-diwakar&theme=dark" alt="ravikant-diwakar" /></p> | ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=ravikant-diwakar&repo=AgriSens&theme=dark) |
+
+
 
 ## 🤝🏻 Collaboration
 I’m open to collaborating on exciting projects related to my interests! If you have an idea or project in mind, feel free to reach out to me. Let’s create something awesome together!
