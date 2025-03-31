@@ -70,41 +70,69 @@
 
 ## Languages, Tools, and Technologies 🚀
 
-### Programming Languages
-![C](https://skillicons.dev/icons?i=c)
-![C++](https://skillicons.dev/icons?i=cpp)
-![Python](https://skillicons.dev/icons?i=py)
-
-### Frontend Development
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![React](https://skillicons.dev/icons?i=react)
-
-### Backend Development
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-![Flask](https://skillicons.dev/icons?i=flask)
-
-### Database Technologies
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![AWS](https://skillicons.dev/icons?i=aws)
-![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)
-
-### Tools/Platforms
-![Git](https://skillicons.dev/icons?i=git)
-![VS Code](https://skillicons.dev/icons?i=vscode)
-![GitHub](https://skillicons.dev/icons?i=github&theme=dark)
-
-### Machine Learning
-![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
-![Scikit-Learn](https://skillicons.dev/icons?i=sklearn)
-![PyTorch](https://skillicons.dev/icons?i=pytorch)
-
-### Software Tools
-![Adobe Photoshop](https://skillicons.dev/icons?i=ps)
-![Adobe Premiere](https://skillicons.dev/icons?i=pr)
-![Figma](https://skillicons.dev/icons?i=figma)
+<table style="width:100%;">
+  <tr>
+    <th style="text-align:center;">Category</th>
+    <th style="text-align:center;">Technologies</th>
+  </tr>
+  <tr>
+    <td><strong>Programming Languages</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=c" alt="C" height="40">
+      <img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="40">
+      <img src="https://skillicons.dev/icons?i=py" alt="Python" height="40">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Frontend Development</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html" alt="HTML" height="40">
+      <img src="https://skillicons.dev/icons?i=css" alt="CSS" height="40">
+      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="40">
+      <img src="https://skillicons.dev/icons?i=react" alt="React" height="40">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Backend Development</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="40">
+      <img src="https://skillicons.dev/icons?i=express" alt="Express" height="40">
+      <img src="https://skillicons.dev/icons?i=flask" alt="Flask" height="40">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Database Technologies</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="40">
+      <img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="40">
+      <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="40">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Tools/Platforms</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git" alt="Git" height="40">
+      <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="40">
+      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Machine Learning</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" height="40">
+      <img src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-Learn" height="40">
+      <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" height="40">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Software Tools</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=ps" alt="Adobe Photoshop" height="40">
+      <img src="https://skillicons.dev/icons?i=pr" alt="Adobe Premiere" height="40">
+      <img src="https://skillicons.dev/icons?i=figma" alt="Figma" height="40">
+    </td>
+  </tr>
+</table>
 
 
 
