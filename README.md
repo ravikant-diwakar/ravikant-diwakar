@@ -43,26 +43,6 @@
 
 ---
 
-- 🌱 I’m currently learning **Machine Learning**
-
-- 👨‍💻 All of my projects are available at [https://github.com/ravikant-diwakar](https://github.com/ravikant-diwakar)
-
-- 💼 Portfolio [https://ravikantdiwakar.netlify.app/](https://ravikantdiwakar.netlify.app/)
-
-- 💬 Ask me about **C, Cpp, Python**
-
-- ✉ Mail **diwakarr956@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/ravikantdiwakar/](https://www.linkedin.com/in/ravikantdiwakar/)
-
-
-## Connect with me 🔗
-
-<p align="left">
-<a href="https://linkedin.com/in/ravikantdiwakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravikantdiwakar" height="30" width="40" /></a>
-<a href="https://instagram.com/0000032c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0000032c" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ravikant_diwakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ravikant_diwakar" height="30" width="40" /></a>
-</p>
 
 ## Languages, Tools and Technologies 🚀 
 <table>
