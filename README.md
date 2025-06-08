@@ -60,11 +60,11 @@
 </tr>
 <tr>
 	<td><strong>Database Technologies</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=mysql,aws,mongodb,sql&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=mysql,aws,mongodb&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>Tools/Platforms</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=git,vscode,github&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=git,vscode,github,linux,postman&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>Machine Learning</strong></td>
