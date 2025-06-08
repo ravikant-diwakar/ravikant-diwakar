@@ -56,7 +56,7 @@
 </tr>
 <tr>
 	<td><strong>Backend Development</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=nodejs,express,flask"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=nodejs,express,flask,spring"></td>
 </tr>
 <tr>
 	<td><strong>Database Technologies</strong></td>
