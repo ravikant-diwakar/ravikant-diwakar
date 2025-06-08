@@ -52,7 +52,7 @@
 </tr>
 <tr>
 	<td><strong>Frontend Development</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,js,react" ></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,js,react,ts" ></td>
 </tr>
 <tr>
 	<td><strong>Backend Development</strong></td>
