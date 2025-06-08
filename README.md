@@ -68,7 +68,7 @@
 </tr>
 <tr>
 	<td><strong>Machine Learning</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch,jupyter"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch,keras"></td>
 </tr>
 <tr>
 	<td><strong>Software Tools</strong></td>
